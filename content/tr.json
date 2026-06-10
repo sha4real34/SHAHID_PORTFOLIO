@@ -1,0 +1,190 @@
+{
+    "nav": {
+        "home": "Ana Sayfa",
+        "about": "Hakkımda",
+        "stack": "Teknolojiler",
+        "projects": "Projeler",
+        "roadmap": "Yol Haritası",
+        "contact": "İletişim"
+    },
+    "hero": {
+        "title": "Modern <span class='highlight-text-primary'>web uygulamaları</span> ve yapay zeka destekli araçlar <span class='highlight-text-primary'>geliştiriyorum</span>",
+        "cta_primary": "İletişim",
+        "cta_secondary": "Projeler",
+        "stats": "<span class='highlight-text-tertiary'>AI</span> Destekli Çözümler",
+        "scroll": "Aşağı Kaydır"
+    },
+    "about": {
+        "title": "Hakkımda",
+        "intro": "<span class='highlight-text-primary'>Mohammad Shahid Sajjad Pinjari</span> — Full Stack Geliştirici ve Yapay Zeka Meraklısı.",
+        "description": "Modern teknolojileri kullanarak modern full stack web uygulamaları, yapay zeka destekli araçlar ve etkileşimli kullanıcı deneyimleri geliştiriyorum.",
+        "full": "Hindistan'da yaşayan tutkulu bir Full Stack Geliştirici, Python Geliştirici ve Yapay Zeka Meraklısıyım. Modern, ölçeklenebilir web uygulamaları ve etkileşimli dijital deneyimler geliştirme konusunda uzmanım.<br/><br/>Harika ve duyarlı kullanıcı arayüzleri oluşturmak için React, Next.js ve Tailwind CSS gibi frontend teknolojileriyle kapsamlı çalışmalar yapıyorum. Backend tarafında ise sağlam API'ler, mikro hizmetler ve yapay zeka destekli özellikler oluşturmak için Node.js, Express ve Python'dan yararlanıyorum. MongoDB, PostgreSQL ve SQLite gibi veritabanlarıyla çalışmaktan keyif alıyor ve sistem performansını optimize etmenin yollarını arıyorum.<br/><br/>Amacım, yaratıcı tasarım ile teknik uygulanabilirlik arasındaki köprüyü kurarak, sadece harika görünmekle kalmayıp aynı zamanda olağanüstü performans gösteren ürünler inşa etmektir. Her zaman yeni teknolojiler öğrenmeye hevesliyim ve karmaşık sorunları çözmek için birinci ilkeler düşüncesini uyguluyorum.",
+        "cta": "Tamamını Oku"
+    },
+    "manifesto": {
+        "items": [
+            "RADICAL TRANSPARENCY",
+            "INTENTIONAL MINIMALISM",
+            "ARCHITECTURAL INTEGRITY",
+            "FIRST PRINCIPLES THINKING",
+            "PERFORMANCE WITHOUT COMPROMISE",
+            "SCALABLE VISION"
+        ]
+    },
+    "stack": {
+        "title": "Teknolojiler",
+        "items": [
+            {
+                "title": "Full Stack Development (React)",
+                "items": [
+                    {
+                        "name": "React",
+                        "icon": "https://cdn.simpleicons.org/react"
+                    },
+                    {
+                        "name": "Next.js",
+                        "icon": "https://cdn.simpleicons.org/nextdotjs"
+                    },
+                    {
+                        "name": "Tailwind CSS",
+                        "icon": "https://cdn.simpleicons.org/tailwindcss"
+                    },
+                    {
+                        "name": "JavaScript",
+                        "icon": "https://cdn.simpleicons.org/javascript"
+                    },
+                    {
+                        "name": "HTML5",
+                        "icon": "https://cdn.simpleicons.org/html5"
+                    },
+                    {
+                        "name": "CSS3",
+                        "icon": "https://www.svgrepo.com/show/452185/css-3.svg"
+                    },
+                    {
+                        "name": "Node.js",
+                        "icon": "https://cdn.simpleicons.org/nodedotjs"
+                    },
+                    {
+                        "name": "MongoDB",
+                        "icon": "https://cdn.simpleicons.org/mongodb"
+                    },
+                    {
+                        "name": "PostgreSQL",
+                        "icon": "https://cdn.simpleicons.org/postgresql"
+                    },
+                    {
+                        "name": "Git",
+                        "icon": "https://cdn.simpleicons.org/git"
+                    },
+                    {
+                        "name": "Vercel",
+                        "icon": "https://cdn.simpleicons.org/vercel"
+                    }
+                ]
+            },
+            {
+                "title": "Python Development",
+                "items": [
+                    {
+                        "name": "Python",
+                        "icon": "https://cdn.simpleicons.org/python"
+                    }
+                ]
+            }
+        ]
+    },
+    "projects": {
+        "title": "PROJELER",
+        "intro": "<span class='highlight-text-primary'>deneyler</span>, <span class='highlight-text-primary'>ürünler</span> ve <span class='highlight-text-primary'>dijital eserlerden</span> oluşan, <span class='highlight-text-secondary'>boşlukta</span> şekillendirilmiş bir koleksiyon.",
+        "scroll_text": "KEŞFETMEK İÇİN KAYDIR",
+        "end_text": "SON",
+        "items": [
+            {
+                "id": "1",
+                "title": "CampusKey",
+                "category": "Web Uygulaması ve Yapay Zeka",
+                "year": "2026",
+                "description": "CampusKey, öğrencilerin daha hızlı ve verimli öğrenmelerine yardımcı olmak için tasarlanmış yapay zeka destekli bir çalışma arkadaşıdır. Öğrenme üretkenliğini artırmak için yapay zeka destekli not alma, çalışma botu ve etkileşimli kaynaklar sunar.",
+                "image": "/project-campuskey.png",
+                "demo": "https://campuskey.site",
+                "stack": [
+                    "Next.js",
+                    "React",
+                    "TailwindCSS",
+                    "OpenAI",
+                    "Node.js"
+                ]
+            }
+        ]
+    },
+    "roadmap": {
+        "title": "Yol Haritası",
+        "description": "Yazılım yolculuğum boyunca edindiğim tecrübeleri ve öğrendiğim teknolojileri paylaştığım bir yol haritası.",
+        "items": [
+            {
+                "id": "01",
+                "year": "2024",
+                "description": "GH Raisoni College'a Bilgisayar Uygulamaları Lisansı (BCA) öğrencisi olarak girdim. Bilgisayar temellerini, programlama mantığını ve web temellerini araştırdım.",
+                "tags": [
+                    "BCA",
+                    "GH Raisoni"
+                ]
+            },
+            {
+                "id": "02",
+                "year": "2025",
+                "description": "React ve Next.js ile frontend geliştirmeye odaklandım. Görevleri otomatikleştirmek ve özel araçlar oluşturmak için Python betikleri yazmaya başladım.",
+                "tags": [
+                    "React",
+                    "Python",
+                    "Web Geliştirme"
+                ]
+            },
+            {
+                "id": "03",
+                "year": "2026",
+                "description": "Şu anda React ve Python ile Full Stack Web Geliştirme alanında uzmanlaşıyorum. Yapay zeka destekli entegrasyonlar ve özel web çözümleri geliştiriyorum.",
+                "tags": [
+                    "Full Stack",
+                    "React",
+                    "Python",
+                    "Yapay Zeka"
+                ]
+            }
+        ]
+    },
+    "contact": {
+        "title": "İletişim",
+        "description": "İster bir projeyi hayata geçirmek için yeni bir başlangıç yapalım, ister mevcut bir sistemi daha ileri taşıyalım.",
+        "email": "shahidpinjari764@gmail.com",
+        "phone": "7843038396",
+        "send_email": "E-posta Gönder",
+        "direct_line": "Telefon Numarası",
+        "all_rights_reserved": "TÜM HAKLARI SAKLIDIR.",
+        "modal_title": "İletişim Bilgilerim",
+        "modal_description": "Bana bir mesaj gönderin, en kısa sürede size geri dönüş yapayım."
+    },
+    "social": {
+        "title": "SOCIAL",
+        "items": [
+            {
+                "label": "GitHub",
+                "href": "https://github.com/sha4real34"
+            },
+            {
+                "label": "LinkedIn",
+                "href": "https://www.linkedin.com/in/shahid-pinjari-a10611281?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+            }
+        ]
+    },
+    "others": {
+        "about_project": "Proje Hakkında",
+        "technologies": "Teknolojiler",
+        "live_demo": "Canlı Demo",
+        "source_code": "Kaynak Kodları",
+        "project_details": "Proje Detayları",
+        "select_language": "Dil Seçin",
+        "change_the_site_language": "Sitenin dilini değiştirmek için tıklayın."
+    }
+}

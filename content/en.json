@@ -1,0 +1,190 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "stack": "Stack",
+        "projects": "Projects",
+        "roadmap": "Roadmap",
+        "contact": "Contact"
+    },
+    "hero": {
+        "title": "I build modern <span class='highlight-text-primary'>full stack web applications</span> and <span class='highlight-text-primary'>AI-powered tools</span>",
+        "cta_primary": "Connect",
+        "cta_secondary": "Explore Works",
+        "stats": "<span class='highlight-text-tertiary'>AI</span> Powered Solutions",
+        "scroll": "Scroll Down"
+    },
+    "about": {
+        "title": "About",
+        "intro": "<span class='highlight-text-primary'>Mohammad Shahid Sajjad Pinjari</span> — Full Stack Developer & AI Enthusiast.",
+        "description": "I build modern full stack web applications, AI-powered tools, and interactive user experiences using modern technologies.",
+        "full": "I am a passionate Full Stack Developer, Python Developer, and AI Enthusiast based in India. I specialize in building modern, scalable web applications and interactive digital experiences.<br/><br/>I have extensive experience working with frontend technologies like React, Next.js, and Tailwind CSS to create beautiful and responsive user interfaces. On the backend, I leverage Node.js, Express, and Python to build robust APIs, microservices, and AI-powered features. I enjoy working with databases like MongoDB, PostgreSQL, and SQLite, and I am always looking for ways to optimize system performance.<br/><br/>My goal is to bridge the gap between creative design and technical feasibility, building products that not only look great but also perform exceptionally. I'm always eager to learn new technologies and apply first-principles thinking to solve complex problems.",
+        "cta": "Read Full Version"
+    },
+    "manifesto": {
+        "items": [
+            "RADICAL TRANSPARENCY",
+            "INTENTIONAL MINIMALISM",
+            "ARCHITECTURAL INTEGRITY",
+            "FIRST PRINCIPLES THINKING",
+            "PERFORMANCE WITHOUT COMPROMISE",
+            "SCALABLE VISION"
+        ]
+    },
+    "stack": {
+        "title": "STACK",
+        "items": [
+            {
+                "title": "Full Stack Development (React)",
+                "items": [
+                    {
+                        "name": "React",
+                        "icon": "https://cdn.simpleicons.org/react"
+                    },
+                    {
+                        "name": "Next.js",
+                        "icon": "https://cdn.simpleicons.org/nextdotjs"
+                    },
+                    {
+                        "name": "Tailwind CSS",
+                        "icon": "https://cdn.simpleicons.org/tailwindcss"
+                    },
+                    {
+                        "name": "JavaScript",
+                        "icon": "https://cdn.simpleicons.org/javascript"
+                    },
+                    {
+                        "name": "HTML5",
+                        "icon": "https://cdn.simpleicons.org/html5"
+                    },
+                    {
+                        "name": "CSS3",
+                        "icon": "https://www.svgrepo.com/show/452185/css-3.svg"
+                    },
+                    {
+                        "name": "Node.js",
+                        "icon": "https://cdn.simpleicons.org/nodedotjs"
+                    },
+                    {
+                        "name": "MongoDB",
+                        "icon": "https://cdn.simpleicons.org/mongodb"
+                    },
+                    {
+                        "name": "PostgreSQL",
+                        "icon": "https://cdn.simpleicons.org/postgresql"
+                    },
+                    {
+                        "name": "Git",
+                        "icon": "https://cdn.simpleicons.org/git"
+                    },
+                    {
+                        "name": "Vercel",
+                        "icon": "https://cdn.simpleicons.org/vercel"
+                    }
+                ]
+            },
+            {
+                "title": "Python Development",
+                "items": [
+                    {
+                        "name": "Python",
+                        "icon": "https://cdn.simpleicons.org/python"
+                    }
+                ]
+            }
+        ]
+    },
+    "projects": {
+        "title": "PROJECTS",
+        "intro": "A collection of <span class='highlight-text-primary'>experiments</span>, <span class='highlight-text-primary'>products</span>, and <span class='highlight-text-primary'>digital artifacts</span> forged in the <span class='highlight-text-secondary'>void</span>.",
+        "scroll_text": "SCROLL TO EXPLORE",
+        "end_text": "END",
+        "items": [
+            {
+                "id": "1",
+                "title": "CampusKey",
+                "category": "Web Application & AI",
+                "year": "2026",
+                "description": "CampusKey is an AI-powered study companion designed to help students learn faster and more efficiently. It features AI note-taking, a study bot, study plans, and interactive resources to boost learning productivity.",
+                "image": "/project-campuskey.png",
+                "demo": "https://campuskey.site",
+                "stack": [
+                    "Next.js",
+                    "React",
+                    "TailwindCSS",
+                    "OpenAI",
+                    "Node.js"
+                ]
+            }
+        ]
+    },
+    "roadmap": {
+        "title": "Roadmap",
+        "description": "A roadmap where I share the experiences I’ve gained throughout my software journey and the technologies I’ve learned.",
+        "items": [
+            {
+                "id": "01",
+                "year": "2024",
+                "description": "Entered GH Raisoni College as a Bachelor of Computer Applications (BCA) student. Explored computer fundamentals, programming logic, and web foundations.",
+                "tags": [
+                    "BCA",
+                    "GH Raisoni"
+                ]
+            },
+            {
+                "id": "02",
+                "year": "2025",
+                "description": "Focused on frontend development with React and Next.js. Started writing Python scripts to automate tasks and build custom tools.",
+                "tags": [
+                    "React",
+                    "Python",
+                    "Web Dev"
+                ]
+            },
+            {
+                "id": "03",
+                "year": "2026",
+                "description": "Currently specializing in Full Stack Web Development with React and Python. Building AI-powered integrations and custom web solutions.",
+                "tags": [
+                    "Full Stack",
+                    "React",
+                    "Python",
+                    "AI"
+                ]
+            }
+        ]
+    },
+    "contact": {
+        "title": "CONTACT",
+        "description": "Whether we start fresh to bring a project to life or take an existing system further.",
+        "email": "shahidpinjari764@gmail.com",
+        "phone": "7843038396",
+        "send_email": "Send an Email",
+        "direct_line": "Direct Line",
+        "all_rights_reserved": "ALL RIGHTS RESERVED.",
+        "modal_title": "Let's Connect",
+        "modal_description": "Send me a message and I'll get back to you as soon as possible."
+    },
+    "social": {
+        "title": "SOCIAL",
+        "items": [
+            {
+                "label": "GitHub",
+                "href": "https://github.com/sha4real34"
+            },
+            {
+                "label": "LinkedIn",
+                "href": "https://www.linkedin.com/in/shahid-pinjari-a10611281?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+            }
+        ]
+    },
+    "others": {
+        "about_project": "About the Project",
+        "technologies": "Technologies",
+        "live_demo": "Live Demo",
+        "source_code": "Source Code",
+        "project_details": "Details about",
+        "select_language": "Select Language",
+        "change_the_site_language": "Change the site language."
+    }
+}
