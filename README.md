@@ -1,6 +1,6 @@
 # 🌸 Shahid Portfolio
 
-A premium, highly interactive personal portfolio website inspired by the design quality of Awwwards, customized for **Mohammad Shahid Sajjad Pinjari**. It features a modern pink & black aesthetic, smooth inertia scrolling, physics-based micro-interactions,  and and the  custom visual animations.
+A premium, highly interactive personal portfolio website inspired by the design quality of Awwwards, customized for **Mohammad Shahid Sajjad Pinjari**. It features a modern pink & black aesthetic, smooth inertia scrolling, physics-based micro-interactions,  and  the  custom visual animations.
 
 <div align="center">
   <img src="public/s-logo.jpg" width="120" height="120" style="border-radius: 50%;" />
